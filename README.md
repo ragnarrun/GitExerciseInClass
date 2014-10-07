@@ -1,0 +1,4 @@
+GitExerciseInClass
+==================
+
+Dæmatím2
